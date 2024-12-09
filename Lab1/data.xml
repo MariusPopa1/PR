@@ -1,0 +1,24 @@
+<keep>
+  <filtered_products>
+    <product>
+      <name>Jucărie Acula </name>
+      <price>11.4</price>
+      <url>http://kawaiicat.md/jucarii/jucarie-acula-s-1 </url>
+      <rating>5</rating>
+    </product>
+    <product>
+      <name>Jucarie Cartoon Cat</name>
+      <price>13.42</price>
+      <url>http://kawaiicat.md/jucarii/jucarie-cartoon-cat-2-1</url>
+      <rating>5</rating>
+    </product>
+    <product>
+      <name>Jucarie Cartoon Cat v1</name>
+      <price>13.42</price>
+      <url>http://kawaiicat.md/jucarii/jucarie-cartoon-cat-2-2</url>
+      <rating>5</rating>
+    </product>
+  </filtered_products>
+  <total_price>38.24</total_price>
+  <timestamp>2024-12-08T23:01:26.152270</timestamp>
+</keep>
